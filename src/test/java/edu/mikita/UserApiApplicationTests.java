@@ -1,4 +1,4 @@
-package edu.mikita.dk_user_api;
+package edu.mikita;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

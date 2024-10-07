@@ -1,6 +1,6 @@
-package edu.mikita.dk_user_api.controller;
+package edu.mikita.controller;
 
-import edu.mikita.dk_user_api.domain.UserDto;
+import edu.mikita.domain.UserDto;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
