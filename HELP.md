@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'edu.mikita.user-api' is invalid and this project uses 'edu.mikita.user_api' instead.
+* The original package name 'edu.mikita.dk-user-api' is invalid and this project uses 'edu.mikita.dk_user_api' instead.
 
 # Getting Started
 
